@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/Librarymanagementsystem/src/main/java" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/managementsystem/src/main/java" charset="UTF-8" />
+>>>>>>> 6956832a3f8c51500be749b2d8900489e23e403c
   </component>
 </project>

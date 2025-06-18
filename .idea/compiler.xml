@@ -3,20 +3,32 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+<<<<<<< HEAD
       <profile name="Annotation profile for Librarymanagementsystem" enabled="true">
+=======
+      <profile name="Annotation profile for studentgrademanagementsystem" enabled="true">
+>>>>>>> 6956832a3f8c51500be749b2d8900489e23e403c
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar" />
         </processorPath>
+<<<<<<< HEAD
         <module name="Librarymanagementsystem" />
+=======
+        <module name="managementsystem" />
+>>>>>>> 6956832a3f8c51500be749b2d8900489e23e403c
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
       <module name="Librarymanagementsystem" options="-parameters" />
+=======
+      <module name="managementsystem" options="-parameters" />
+>>>>>>> 6956832a3f8c51500be749b2d8900489e23e403c
     </option>
   </component>
 </project>
